@@ -5,8 +5,8 @@
 
 <img align ="right" src = "https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250">
 
-- 🎓 &nbsp; PhD in subsurface imaging using seismics (Geophysics) and accelerated-imaging
-- 💼 &nbsp; Experience in DL-based denoising and imaging solutions for subsurface imaging
+- 🎓 &nbsp; PhD in accelerated-subsurface imaging (Geosciences)
+- 💼 &nbsp; Experience in DL-based denoising and imaging solutions
 - 💼 &nbsp; Develops **Generative AI** end-to-end solutions for E-commerce imagery 
 - ⚡ &nbsp; Playing cricket and squash    
 
