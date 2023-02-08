@@ -5,10 +5,9 @@
 
 <img align ="right" src = "https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250">
 
-- 🎓 &nbsp; PhD in subsurface imaging using seismics (Geophysics) 
-- 💼 &nbsp; Working as a researcher at Shell
-- 💼 &nbsp; Developing DL-based solutions and corresponding datasets for subsurface imaging
-- 🌱 &nbsp; Learning more about Deep learning and MLOps everyday 
+- 🎓 &nbsp; PhD in subsurface imaging using seismics (Geophysics) and accelerated-imaging
+- 💼 &nbsp; Experience in DL-based denoising and imaging solutions for subsurface imaging
+- 💼 &nbsp; Develops **Generative AI** end-to-end solutions for E-commerce imagery 
 - ⚡ &nbsp; Playing cricket and squash    
 
 
