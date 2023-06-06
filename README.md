@@ -5,7 +5,7 @@
 
 - 💼 &nbsp; Developing Generative AI solutions for high-quality on-model images
 - 🎓 &nbsp; Know a thing or two about diffusion and GANs
-- 🎓 &nbsp; Seasoned in fine-tuning and supercharging train/inference pipelines for maximum performance
+- 🎓 &nbsp; Seasoned in fine-tuning and optimizing train/inference pipelines
 - 💼 &nbsp; Developed DL-based denoising and imaging solutions in previous gig with Shell
 - 🎓 &nbsp; Background in (geo)physics and accelerated subsurface imaging
 
