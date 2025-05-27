@@ -7,8 +7,8 @@
 
 
 - 💼 &nbsp; Building AI-driven products to solve real-world problems
-- 🚀 &nbsp; Senior ML engineer at [Jiffy](https://www.jiffy.com/) with focus on Generative AI design and LLM-based structured data extraction and search tools
-- 💼 &nbsp; Formerly developed vision Generative AI (Virtual Try-On, Background Generation) solutions at [Flixstock](https://www.flixstock.com/)
+- 🚀 &nbsp; Senior ML engineer at [Jiffy](https://www.jiffy.com/) with focus on Generative AI design and image-enhancement tools
+- 💼 &nbsp; Formerly worked on GANs & Diffusion Models with focus on Virtual Try-On, AI-Generated Photoshoot backgrounds at [Flixstock](https://www.flixstock.com/)
 - 🎓 &nbsp; Background in computational (geo)-physics
 
-I'm always eager to connect and collaborate. Please feel free to reach out!
+I'm always eager to connect with fellow devs. Please feel free to reach out!
