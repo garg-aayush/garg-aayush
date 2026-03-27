@@ -7,8 +7,8 @@
 
 
 - 💼 &nbsp; Building AI-driven products to solve real-world problems
-- 🚀 &nbsp; Senior ML Engineer specializing in production generative AI systems, multi-agent systems, and AI-driven image enhancement workflows
-- 🎨 &nbsp; Deep experience with Diffusion Models, VLMs/LLMs, LoRA fine-tuning, custom ComfyUI pipelines & nodes, and ML deployments (RunPod, Replicate, Modal)
+- 🚀 &nbsp; Specializes in production generative AI systems, multi-agent systems, and AI image enhancement workflows
+- 🎨 &nbsp; Experience with diffusion Models, VLMs/LLMs, LoRA finetuning, custom ComfyUI pipelines & nodes and ML deployments
 - 🧱 &nbsp; Currently building LLM components from first principles: [building-from-scratch](https://github.com/garg-aayush/building-from-scratch)
 - 🎓 &nbsp; Background in computational (geo)-physics
 
