@@ -7,8 +7,9 @@
 
 
 - 💼 &nbsp; Building AI-driven products to solve real-world problems
-- 🚀 &nbsp; Senior ML engineer at [Jiffy](https://www.jiffy.com/) with focus on Generative AI design and image-enhancement tools
-- 💼 &nbsp; Formerly worked on GANs & Diffusion Models with focus on Virtual Try-On, AI-Generated Photoshoot backgrounds at [Flixstock](https://www.flixstock.com/)
+- 🚀 &nbsp; Senior ML Engineer specializing in production generative AI systems, multi-agent systems, and AI-driven image enhancement workflows
+- 🎨 &nbsp; Deep experience with Diffusion Models, VLMs/LLMs, LoRA fine-tuning, custom ComfyUI pipelines & nodes, and ML deployments (RunPod, Replicate, Modal)
+- 🧱 &nbsp; Currently building LLM components from first principles: [building-from-scratch](https://github.com/garg-aayush/building-from-scratch)
 - 🎓 &nbsp; Background in computational (geo)-physics
 
 I'm always eager to connect with fellow devs. Please feel free to reach out!
