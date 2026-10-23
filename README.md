@@ -6,9 +6,11 @@
 <a href="mailto:aayushgargiitr@gmail.com" target="_blank"><img alt="Email id" src="https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 
 
-- 💼 &nbsp; Forward Deployed ML Engineer at [Applied Computing](https://appliedcomputing.com/), building and deploying AI models and a reasoning layer for refineries and plants optimization
+- 💼 &nbsp; Forward Deployed ML Engineer at [Applied Computing](https://appliedcomputing.com/)
+  - Building and deploying AI models and a reasoning layer for refineries and plants optimization
 - 🚀 &nbsp; Wearing every hat it takes: client calls, scoping, taking research code to production and keeping it running
-- 🎨 &nbsp; Before that, built image generation and enhancement pipelines in production at Jiffy and Flixstock: diffusion models, VLMs/LLMs, LoRA fine-tuning and ComfyUI
+- 🎨 &nbsp; Before that, built image generation and enhancement pipelines at Jiffy and Flixstock
+  - Diffusion models, VLMs/LLMs, LoRA fine-tuning and ComfyUI, all in production
 - 🧱 &nbsp; Rebuilding LLM components from first principles: [building-from-scratch](https://github.com/garg-aayush/building-from-scratch)
 - 🎓 &nbsp; Started out in computational geophysics: a PhD at TU Delft and research at Shell
 
