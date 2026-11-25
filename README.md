@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏽, I'm Aayush</h1>
 
 <p align="center">
-<b>Forward Deployed ML Engineer at <a href="https://appliedcomputing.com/">Applied Computing</a></b>
+<b>Principal Forward Deployed ML Engineer at <a href="https://appliedcomputing.com/">Applied Computing</a></b>
 </p>
 
 <p align="center">
